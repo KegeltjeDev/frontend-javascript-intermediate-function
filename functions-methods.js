@@ -9,7 +9,7 @@
 // getEmailDomain("t.mellink@novi.nl") geeft novi.nl
 // getEmailDomain("a.wiersma@outlook.com") geeft outlook.com
 
-// dit is een test
+
 
 
 /* Opdracht  2 */
